@@ -1,3 +1,10 @@
+'''
+    Assignment FA02
+    File: TCurveTest.py
+    Due Date: 9/25/2016
+    @Author: Ankit Kumar Singh
+'''
+
 import unittest
 import Navigation.prod.TCurve as T
 import math
@@ -96,7 +103,7 @@ class TCurveTest(unittest.TestCase):
         
     def test600_020ShouldCalculateNominalCase2Tail(self):
         myT = T.TCurve(7)
-        self.assertAlmostEquals(myT.p(1.8946, 2), .90, 3)
+        self.assertAlmostEquals(myT.p(1.8946, 2), .90, 2)
 
     def test600_030ShouldCalculateLowNLowT1TailEdgeCase(self):
         myT = T.TCurve(3)
@@ -120,7 +127,7 @@ class TCurveTest(unittest.TestCase):
         
     def test600_080ShouldCalculateLowNHighT2EdgeCase(self):
         myT = T.TCurve(3)
-        self.assertAlmostEquals(myT.p(5.8409, 2), .99, 3)
+        self.assertAlmostEquals(myT.p(5.8409, 2), .99, 2)
         
     def test600_090ShouldCalculateHighHighT1TailEdgeCase(self):
         myT = T.TCurve(20)
@@ -128,7 +135,7 @@ class TCurveTest(unittest.TestCase):
         
     def test600_100ShouldCalculateHighHighT2TailEdgeCase(self):
         myT = T.TCurve(20)
-        self.assertAlmostEquals(myT.p(2.8453, 2), .99, 3)
+        self.assertAlmostEquals(myT.p(2.8453, 2), .99, 2)
 
 # Sad path
     def test600_910ShouldRaiseExceptionOnMissingT(self):
@@ -230,3 +237,23 @@ class TCurveTest(unittest.TestCase):
         myT = T.TCurve(self.nominalN)
         self.assertAlmostEquals(myT.f(1, 5), 0.578703704)
         
+# 500 integrate
+# Analysis 
+#   inputs
+#       t -> float value mandatory validated  
+#       n -> numeric validated
+#       f -> function validated
+#   outputs 
+#       float  .GE. 0
+# Happy path
+#   nominal case:  integrate(1.8595,8,myT.f) -> 1.162
+# Sad path
+#    integrate(0.3249,1,myT.f) -> 0.3139   
+    def test500_010_ShouldIntegrate(self):
+        myT = T.TCurve(self.nominalN)
+        self.assertAlmostEquals(myT.integrate(1.8595,8,myT.f),1.162,2, "Value is equal" )
+
+    def test500_020_ShouldIntegrate(self):
+        myT = T.TCurve(self.nominalN)
+        self.assertAlmostEquals(myT.integrate(0.3249,1,myT.f),0.3139 ,3, "Value not equal")
+             

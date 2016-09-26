@@ -1,3 +1,10 @@
+'''
+    Assignment FA02
+    File: TCurve.py
+    Due Date: 9/25/2016
+    @Author: Ankit Kumar Singh
+'''
+
 import math
 class TCurve(object):
 
@@ -62,10 +69,28 @@ class TCurve(object):
         return result
     
     def integrate(self, t, n, f):
-        pass
-        
-        
-    
+        epsilon = 0.001
+        lowBound = 0
+        highBound = t
+        simpsonOld = 0
+        simpsonNew = epsilon
+        s = 4
+        while (abs((simpsonNew - simpsonOld ) / simpsonNew) > epsilon):
+            simpsonOld = simpsonNew
+            w = (highBound - lowBound) /s
+            simpsonNew = (w/3.0)
+            fSum = 0
+            for i in range (s+1):
+                if i==0 or i==s:
+                    fSum = fSum + f(lowBound + (w*i),n)
+                elif i%2==0:
+                    fSum = fSum + 4*f(lowBound + (w*i),n)
+                else:
+                    fSum = fSum + 2*f(lowBound + (w*i),n)
+            simpsonNew = simpsonNew * fSum
+            s = s*2
+            
+        return simpsonNew    
         
             
         
