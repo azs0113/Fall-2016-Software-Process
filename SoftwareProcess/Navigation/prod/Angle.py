@@ -24,6 +24,8 @@
 '''
 
 from operator import mod
+from math import ceil
+from decimal import *  #modified
 class Angle():
     def __init__(self):
         # self.angle = ...       set to 0 degrees 0 minutes
@@ -33,11 +35,13 @@ class Angle():
     def setDegrees(self, degrees=0.0):
         try:
             if degrees > 0.0:
-                self.Angle = mod(degrees, 360.0)
-            elif degrees < 0.0 :
-                self.Angle = 360.0 - abs(degrees) 
-            else:
-                self.Angle = degrees
+                getcontext().rounding = ROUND_UP #new
+                self.Angle = float(Decimal(degrees % 360.0).quantize(Decimal('1e-3'))) #modified
+            elif degrees < 0.0:
+                    
+                self.Angle = float(Decimal((degrees-360.0) % 360.0).quantize(Decimal('1e-3')))
+#             else:
+#                 self.Angle = degrees
             return self.Angle
         except:
             raise ValueError("Angle.setDegrees:  Parameter specification violated with non-numeric value ")        
@@ -46,33 +50,55 @@ class Angle():
     def setDegreesAndMinutes(self, angleString):
         try:
             x = angleString.split('d')
-            degreePart = self.setDegrees(int(x[0]))
+            
+            if(float(x[1]) <0.0):       #new
+                raise ValueError("Angle.setDegreesAndMinutes:  Parameter specification violated with illegal values") #new
+            
+            e = abs(Decimal(x[1]).as_tuple().exponent)    #new
+            if e>1:                                         #new
+                raise ValueError("Angle.setDegreesAndMinutes:  Parameter specification violated with illegal values")  #new 
+            
+            degreePart = int(x[0])
             minutesPart = float(x[1]) / 60.0
-        
-            self.Angle = degreePart + minutesPart 
+            
+            if(-360< degreePart< 0):
+                self.Angle = 360 - (abs(degreePart) + minutesPart) 
+            else:
+                self.Angle = (degreePart % 360) + minutesPart 
          
-            return round(self.Angle, 2)
+            return self.Angle
         except:
             raise ValueError("Angle.setDegreesAndMinutes:  Parameter specification violated with illegal values")
         pass
     
-    def add(self, angle):
+    def add(self, angle= None):
+        
+        if (angle == None):
+            raise ValueError("Angle.add:  The number of arguments is incorrect");
+
         if not(isinstance(angle, Angle)):
             raise ValueError("Angle.add:  Invalid instance of angle is specified")
         else:
             self.Angle += angle.Angle
-            return self.Angle
+            return mod(self.Angle, 360.0)
+        
         pass
-    
-    def subtract(self, angle):
+        
+    def subtract(self, angle = None):
+        if (angle == None):
+            raise ValueError("Angle.subtract:  The number of arguments is incorrect");        
+        
         if not(isinstance(angle, Angle)):
             raise ValueError("Angle.subtract:  Invalid instance of angle is specified")
         else:
             self.Angle -= angle.Angle
-            return self.Angle
+            return mod(self.Angle, 360.0)
         pass
     
-    def compare(self, angle):
+    def compare(self, angle =None):
+        if (angle == None):
+            raise ValueError("Angle.compare:  The number of arguments is incorrect");        
+        
         if not(isinstance(angle, Angle)):
             raise ValueError("Angle.compare:  Invalid instance of angle is specified")
         else:
@@ -88,12 +114,12 @@ class Angle():
         
         str1 = str(int(self.Angle // 1))
         
-        str2 = str(round(((self.Angle % 1) * 60.0), 2))
+        str2 = str(round(((self.Angle % 1) * 60.0), 1))
         
         return str1 + 'd' + str2
         pass
     
     def getDegrees(self):
         
-        return round(self.Angle, 2)
+        return mod(self.Angle, 360)
         pass
