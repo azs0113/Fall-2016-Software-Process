@@ -34,15 +34,12 @@ class Angle():
     
     def setDegrees(self, degrees=0.0):
         try:
-            if degrees > 0.0:
-                getcontext().rounding = ROUND_UP #new
-                self.Angle = float(Decimal(degrees % 360.0).quantize(Decimal('1e-3'))) #modified
-            elif degrees < 0.0:
-                    
-                self.Angle = float(Decimal((degrees-360.0) % 360.0).quantize(Decimal('1e-3')))
-#             else:
-#                 self.Angle = degrees
-            return self.Angle
+            self.Angle = float(degrees % 360.0)
+            degPart = int(self.Angle)
+            minutePart = round((self.Angle -degPart)*60,1)   
+            self.Angle = degPart + minutePart/60.0
+            return self.Angle    
+
         except:
             raise ValueError("Angle.setDegrees:  Parameter specification violated with non-numeric value ")        
         pass
