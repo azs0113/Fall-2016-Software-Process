@@ -1,0 +1,6 @@
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file sameDateAndTime.xml
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of sighting file sameDateAndTime.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file sameDateAndTime.xml
