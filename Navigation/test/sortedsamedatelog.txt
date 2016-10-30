@@ -32,3 +32,4 @@ LOG:	2016-10-30 21:18:56-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\Softwar
 LOG:	2016-10-30 21:21:09-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txtLOG:	2016-10-30 21:21:09-06:00:	Start of sighting file sameDate.xml
 LOG:	2016-10-30 21:21:31-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txtLOG:	2016-10-30 21:21:31-06:00:	Start of sighting file sameDate.xml
 LOG:	2016-10-30 21:21:42-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txtLOG:	2016-10-30 21:21:42-06:00:	Start of sighting file sameDate.xml
+LOG:	2016-10-30 21:49:24-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txtLOG:	2016-10-30 21:49:24-06:00:	Start of sighting file sameDate.xml
