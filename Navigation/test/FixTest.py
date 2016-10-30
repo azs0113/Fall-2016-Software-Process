@@ -130,7 +130,10 @@ class FixTest(unittest.TestCase):
             xmlfile.setSightingFile('.xml')
                                                                                                  
 #     
-#                 
+    def test200_970_RaiseExceptionFileNameInValid(self):
+        xmlfile = Fix.Fix()
+        with self.assertRaises(ValueError) as context:
+            xmlfile.setSightingFile("?#")              
 #                                  
 #    Acceptance Test: 300
 #        Analysis - getSightings
@@ -293,4 +296,195 @@ class FixTest(unittest.TestCase):
 #         xmlfile.setSightingFile("sightingMissing.xml")
 #         with self.assertRaises(ValueError):
 #             xmlfile.getSightings()            
-#                                                                              
+# 
+
+
+
+
+#     Acceptance Test: 400
+#        Analysis - setAriesFile
+#            input:
+#                ariesFile
+#            output:
+#                Returns a string whose value is the absolute
+#                filepath of the file specified by the parameter.    
+#            state change:
+#                Writes the following entry to the log file:
+#                The literal "Aries file:"    followed by
+#                a tab (i.e., "\t")    followed by
+#                the absolute filepath of the star file
+
+#            Happy path
+#                nominal case:  returns
+
+#Happy path
+    def test400_010_ShouldAcceptaTextFileAsParameter(self):
+        fix = Fix.Fix()
+        f = open('ariesFile.txt','a')
+        ariesFile = fix.setAriesFile('ariesFile.txt')
+        self.assertTrue(ariesFile==os.path.abspath('ariesFile.txt')) 
+        f.close()
+        
+        
+    def test400_020_ShouldWriteALiteral(self):
+        fix = Fix.Fix()
+        f = open('ariesFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        ariesFile = fix.setAriesFile('ariesFile.txt')
+        self.assertNotEqual(lines[-1].find('Aries file:'),-1,'Wrong')
+        f.close()
+        log.close()
+        
+    def test400_030_ShouldWritesanAbsolutePath(self):
+        fix = Fix.Fix()
+        f = open('ariesFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        ariesFile = fix.setAriesFile('ariesFile.txt')
+        self.assertNotEqual(lines[-1].find(os.path.abspath('ariesFile.txt')),-1,'Wrong')
+        f.close()
+        log.close()
+        
+    def test400_040_ShouldWritetheLiteralAndtheAbsolutePath(self):
+        fix = Fix.Fix()
+        f = open('ariesFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        ariesFile = fix.setAriesFile('ariesFile.txt')
+        self.assertNotEqual(lines[-1].find('Aries file:\t'+os.path.abspath('ariesFile.txt')),-1,'Wrong')
+        f.close()
+        log.close()
+        
+    def test400_050_ShouldWriteTabSpaceBetweenLiteralAndtheAbsolutePath(self):
+        fix = Fix.Fix()
+        f = open('ariesFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        ariesFile = fix.setAriesFile('ariesFile.txt')
+        self.assertEqual(lines[-1].find(os.path.abspath('ariesFile.txt'))-lines[-1].find('Aries file:'),12,'Wrong')
+        f.close()
+        log.close()    
+
+    
+    
+ #Sad Path
+ 
+ 
+ 
+    def test400_910_RaiseExceptionIfParameterIsEmpty(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            fix.setAriesFile('')
+
+
+    def test400_920_RaiseExceptionIfParameterIsNotaTextFile(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            ariesFile = fix.setAriesFile('ariesFile')    
+
+
+    def test400_930_RaiseExceptionIfParameterIsNotaValidFileName(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            fix.setAriesFile('#?23.txt')    
+
+
+    def test400_940_RaiseExceptionIfFileNameIsOfInvalidSize(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            fix.setAriesFile('.txt')            
+
+
+
+#     Acceptance Test: 500
+#        Analysis - setStarFile
+#            input:
+#                starFile
+#            output:
+#                Returns a string whose value is the absolute
+#                filepath of the file specified by the parameter.    
+#            state change
+#                Writes the following entry to the log file:
+#                The literal "Star file:"    followed by
+#                a tab (i.e., "\t")    followed by
+#                the absolute filepath of the star file
+
+#            Happy path
+#                nominal case:  returns 
+
+
+    def test500_010_ShouldAcceptfileAsParameterwithTxtExtension(self):
+        fix = Fix.Fix()
+        f = open('starFile.txt','a')
+        starFile = fix.setStarFile('starFile.txt')
+        self.assertTrue(starFile==os.path.abspath('starFile.txt')) 
+        f.close()
+
+
+    def test500_020_ShouldWriteALiteral(self):
+        fix = Fix.Fix()
+        f = open('starFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        fix.setStarFile('starFile.txt')
+        self.assertGreater(lines[-1].find('Star file:'),-1,'Wrong')
+        f.close()
+        log.close()
+
+
+    def test500_030_ShouldWritetheAbsolutePath(self):
+        fix = Fix.Fix()
+        f = open('starFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        starFile = fix.setStarFile('starFile.txt')
+        self.assertNotEqual(lines[-1].find(os.path.abspath('starFile.txt')),-1,'Wrong')
+        f.close()
+        log.close()
+        
+    def test500_040_ShouldWriteTheLiteralAndtheAbsolutePath(self):
+        fix = Fix.Fix()
+        f = open('starFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        fix.setStarFile('starFile.txt')
+        self.assertNotEqual(lines[-1].find('Star file:\t'+os.path.abspath('starFile.txt')),-1,'Wrong')
+        f.close()
+        log.close()
+        
+    def test500_050_ShouldWriteaTabSpaceBetweenLiteralAndtheAbsolutePath(self):
+        fix = Fix.Fix()
+        f = open('starFile.txt','a')
+        log = open('log.txt','r')
+        lines = log.readlines()
+        fix.setStarFile('starFile.txt')
+        self.assertEqual(lines[-1].find(os.path.abspath('starFile.txt'))-lines[-1].find('Star file:'),11,'Wrong')
+        f.close()
+        log.close()
+
+
+
+#Sad Path                    
+    def test500_910_RaiseExceptionIfParameterIsEmpty(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            fix.setStarFile('')
+  
+
+    def test500_920_RaiseExceptionIfParameterhasNoFileExtension(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            fix.setStarFile('ariesFile')
+              
+    def test500_930_RaiseExceptionIfParameterIsNotaValidFilename(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            fix.setStarFile('#?23.txt')
+              
+    def test500_940_RaiseExceptionIfSizeOfFileNameIsInvalid(self):
+        fix = Fix.Fix()
+        with self.assertRaises(ValueError):
+            fix.setStarFile('.txt')
+
+

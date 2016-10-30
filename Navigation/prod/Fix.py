@@ -12,6 +12,7 @@ import datetime
 from time import strftime, gmtime
 import sys
 import math
+import os
 from xml.dom.minidom import parse
 import xml.dom.minidom
 from math import sqrt
@@ -27,10 +28,11 @@ class Fix():
                 raise ValueError('Fix.Fix:  Parameter specification violated with empty string')
             logfile= open(logFile, 'a')
             logfile.write("LOG:\t" + strftime("%Y-%m-%d %H:%M:%S-06:00",gmtime())+ ":\t")
-            logfile.write('Start of log\n')
+            logfile.write('Log File:\t' + os.path.abspath(logFile))
             logfile.close()
             self.sightingFile = None
             self.logFile = logFile
+            self.ariesFile = None
         except:
             raise ValueError('Fix.Fix:  The file cannot be created or appended')
         
@@ -54,6 +56,45 @@ class Fix():
         except:
             raise ValueError('Fix.setSightingFile:  The file cannot be created or appended')
         return sightingFile
+    
+    
+    def setAriesFile(self,ariesFile):
+        try:
+            if not(ariesFile.find('.txt')>0):
+                raise ValueError('Fix.setAriesFile:  Aries File should be a text file with .txt format')
+            temp = open(ariesFile,'r')
+            f = open(self.logFile,'a')
+            f.flush()
+            f.write("\nLOG: " + strftime("%Y-%m-%d %H:%M:%S-06:00",gmtime()))
+            f.write(' Aries file:\t'+os.path.abspath(ariesFile))
+            f.close()
+            temp.close()
+            self.ariesFile = ariesFile
+            return os.path.abspath(ariesFile)
+          
+        except:
+            raise ValueError('Fix.setAriesFile:  File Exception Error in setting aries file')    
+    
+    
+    def setStarFile(self,starFile):
+        try:
+            if not(starFile.find('.txt')>0):
+                raise ValueError('Fix.setStarFile: Aries File should be a text file with .txt format')
+            temp = open(starFile,'r')
+            f = open(self.logFile,'a')
+            f.flush()
+            f.write("\nLOG: " + strftime("%Y-%m-%d %H:%M:%S-06:00",gmtime()))
+            f.write(' Star file:\t'+os.path.abspath(starFile))
+            f.close()
+            temp.close()
+            self.StarFile = starFile
+            return os.path.abspath(starFile)
+        except:
+            raise ValueError('Fix.setStarFile: File Exception Error in setting aries file')
+       
+        
+    
+    
     
     
     def getSightings(self):
