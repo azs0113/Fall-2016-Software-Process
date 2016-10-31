@@ -1,0 +1,1146 @@
+
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:25:44-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:25:44-06:00:\End of sighting file f1.xml
+LOG:	2016-10-17 01:25:44-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:25:44-06:00:\End of sighting file f1.xml
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:25:44-06:00:	Start of log
+LOG:	2016-10-17 01:25:44-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:27:01-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:27:01-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:27:01-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:27:01-06:00:	Start of log
+LOG:	2016-10-17 01:27:01-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:28:13-06:00:	Start of log
+LOG:	2016-10-17 01:28:13-06:00:	Start of log
+LOG:	2016-10-17 01:28:13-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:28:13-06:00:	Start of log
+LOG:	2016-10-17 01:28:13-06:00:	Start of log
+LOG:	2016-10-17 01:28:13-06:00:	Start of log
+LOG:	2016-10-17 01:28:13-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:28:14-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:28:14-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:28:14-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:28:14-06:00:	Start of log
+LOG:	2016-10-17 01:28:14-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:35:25-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:35:25-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:35:25-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:35:25-06:00:	Start of log
+LOG:	2016-10-17 01:35:25-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:38:12-06:00:	Start of log
+LOG:	2016-10-17 01:38:12-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:17-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:39:17-06:00:	Start of log
+LOG:	2016-10-17 01:39:18-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:39:18-06:00:	Start of log
+LOG:	2016-10-17 01:39:18-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:39:18-06:00:	Start of log
+LOG:	2016-10-17 01:39:18-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:39:18-06:00:	Start of log
+LOG:	2016-10-17 01:39:18-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:39:18-06:00:	Start of log
+LOG:	2016-10-17 01:39:18-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:41:35-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:41:35-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:41:35-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:41:35-06:00:	Start of log
+LOG:	2016-10-17 01:41:35-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:48:12-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:48:12-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:48:12-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 01:48:12-06:00:	Start of log
+LOG:	2016-10-17 01:48:12-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:50:04-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:50:04-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:50:04-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:04-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:50:04-06:00:	Start of log
+LOG:	2016-10-17 01:50:05-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:50:05-06:00:	Start of log
+LOG:	2016-10-17 01:50:05-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:50:05-06:00:	Start of log
+LOG:	2016-10-17 01:50:05-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:50:05-06:00:	Start of log
+LOG:	2016-10-17 01:50:05-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:50:05-06:00:	Start of log
+LOG:	2016-10-17 01:50:05-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:50:05-06:00:	Start of log
+LOG:	2016-10-17 01:50:05-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 01:50:05-06:00:	Start of log
+LOG:	2016-10-17 01:50:05-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:50:57-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:50:57-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:50:57-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 01:50:57-06:00:	Start of log
+LOG:	2016-10-17 01:50:57-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:51:46-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:51:46-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:51:46-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 01:51:46-06:00:	Start of log
+LOG:	2016-10-17 01:51:46-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:55:16-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:55:16-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:55:16-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 01:55:16-06:00:	Start of log
+LOG:	2016-10-17 01:55:16-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:56:17-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:56:17-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:56:17-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 01:56:17-06:00:	Start of log
+LOG:	2016-10-17 01:56:17-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 01:57:07-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 01:57:07-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 01:57:07-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 01:57:07-06:00:	Start of log
+LOG:	2016-10-17 01:57:07-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 01:57:08-06:00:	Start of log
+LOG:	2016-10-17 01:57:08-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 01:57:08-06:00:	Start of log
+LOG:	2016-10-17 01:57:08-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 01:57:08-06:00:	Start of log
+LOG:	2016-10-17 01:57:08-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 01:57:08-06:00:	Start of log
+LOG:	2016-10-17 01:57:08-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 01:57:08-06:00:	Start of log
+LOG:	2016-10-17 01:57:08-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 01:57:08-06:00:	Start of log
+LOG:	2016-10-17 01:57:08-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:00:21-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:00:21-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:00:21-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:00:21-06:00:	Start of log
+LOG:	2016-10-17 02:00:21-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:08-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:02:09-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:02:09-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:02:09-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:02:09-06:00:	Start of log
+LOG:	2016-10-17 02:02:09-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:03:59-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:03:59-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:03:59-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:03:59-06:00:	Start of log
+LOG:	2016-10-17 02:03:59-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:07:41-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:07:41-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:07:41-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:07:41-06:00:	Start of log
+LOG:	2016-10-17 02:07:41-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:09:32-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:09:32-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:09:32-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:09:32-06:00:	Start of log
+LOG:	2016-10-17 02:09:32-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:10:34-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:10:34-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:10:34-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:34-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:10:34-06:00:	Start of log
+LOG:	2016-10-17 02:10:35-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:10:35-06:00:	Start of log
+LOG:	2016-10-17 02:10:35-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:10:35-06:00:	Start of log
+LOG:	2016-10-17 02:10:35-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:10:35-06:00:	Start of log
+LOG:	2016-10-17 02:10:35-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:10:35-06:00:	Start of log
+LOG:	2016-10-17 02:10:35-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:33:09-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:33:09-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:33:09-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:33:09-06:00:	Aldebaran	2016-03-01	23:40:01	94d59.0
+LOG:	2016-10-17 02:33:09-06:00:	End of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:33:09-06:00:	Aldebaran	2016-03-01	23:40:01	357d0.4
+LOG:	2016-10-17 02:33:09-06:00:	End of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 02:33:09-06:00:	Start of log
+LOG:	2016-10-17 02:33:09-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 02:33:09-06:00:	Aldebaran	2016-03-01	23:40:01	0d59.9
+LOG:	2016-10-17 02:33:09-06:00:	End of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:40:14-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:40:14-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:40:14-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:40:14-06:00:	Start of log
+LOG:	2016-10-17 02:40:14-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:40:15-06:00:	Aldebaran	2016-03-01	23:40:01	357d0.4
+LOG:	2016-10-17 02:40:15-06:00:	End of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 02:40:15-06:00:	Start of log
+LOG:	2016-10-17 02:40:15-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:41:49-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:41:49-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:41:49-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:41:49-06:00:	Aldebaran	2016-03-01	23:40:01	94d59.0
+LOG:	2016-10-17 02:41:49-06:00:	End of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 02:41:49-06:00:	Start of log
+LOG:	2016-10-17 02:41:49-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:42:55-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:42:55-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:42:55-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 02:42:55-06:00:	Start of log
+LOG:	2016-10-17 02:42:55-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:43:41-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:43:41-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:43:41-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 02:43:41-06:00:	Start of log
+LOG:	2016-10-17 02:43:41-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 02:51:21-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 02:51:21-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 02:51:21-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 02:51:21-06:00:	Start of log
+LOG:	2016-10-17 02:51:21-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 02:51:22-06:00:	Start of log
+LOG:	2016-10-17 02:51:22-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 03:00:28-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 03:00:28-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 03:00:28-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 03:00:28-06:00:	Start of log
+LOG:	2016-10-17 03:00:28-06:00:	Start of sighting file obsAltitudeLess.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 03:01:03-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 03:01:03-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 03:01:03-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 03:01:03-06:00:	Start of log
+LOG:	2016-10-17 03:01:03-06:00:	Start of sighting file obsAltitudeLess.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 03:01:15-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 03:01:15-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 03:01:15-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 03:01:15-06:00:	Start of log
+LOG:	2016-10-17 03:01:15-06:00:	Start of sighting file obsAltitudeLess.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 03:08:34-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 03:08:34-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 03:08:34-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 03:08:34-06:00:	Aldebaran	2016-03-01	23:40:01	10d44.8
+LOG:	2016-10-17 03:08:34-06:00:	Aldebaran	2016-03-01	23:45:01	10d44.8
+LOG:	2016-10-17 03:08:34-06:00:	End of sighting file sameDate.xml
+LOG:	2016-10-17 03:08:34-06:00:	Rase	2016-03-01	23:40:01	10d9.0
+LOG:	2016-10-17 03:08:34-06:00:	Rose	2016-03-01	23:40:01	10d9.0
+LOG:	2016-10-17 03:08:34-06:00:	End of sighting file sameDateAndTime.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 03:08:34-06:00:	Start of log
+LOG:	2016-10-17 03:08:34-06:00:	Start of sighting file obsAltitudeLess.xml
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:23-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 03:24:23-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 03:24:23-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 03:24:23-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 03:24:23-06:00:	Aldebaran	2016-03-01	23:40:01	10d44.8
+LOG:	2016-10-17 03:24:23-06:00:	Aldebaran	2016-03-01	23:45:01	10d44.8
+LOG:	2016-10-17 03:24:23-06:00:	End of sighting file sameDate.xml
+LOG:	2016-10-17 03:24:23-06:00:	Rase	2016-03-01	23:40:01	10d9.0
+LOG:	2016-10-17 03:24:23-06:00:	Rose	2016-03-01	23:40:01	10d9.0
+LOG:	2016-10-17 03:24:23-06:00:	End of sighting file sameDateAndTime.xml
+LOG:	2016-10-17 03:24:23-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 03:24:24-06:00:	Start of log
+LOG:	2016-10-17 03:24:24-06:00:	Start of sighting file obsAltitudeLess.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file file1.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file f1.xml
+LOG:	2016-10-17 03:36:08-06:00:	Aldebaran	2016-03-01	23:40:01	15d6.2
+LOG:	2016-10-17 03:36:08-06:00:	Peacock	2016-03-02	00:05:05	45d12.5
+LOG:	2016-10-17 03:36:08-06:00:	End of sighting file f1.xml
+LOG:	2016-10-17 03:36:08-06:00:	Aldebaran	2016-03-01	23:40:01	10d44.8
+LOG:	2016-10-17 03:36:08-06:00:	Aldebaran	2016-03-01	23:45:01	10d44.8
+LOG:	2016-10-17 03:36:08-06:00:	End of sighting file sameDate.xml
+LOG:	2016-10-17 03:36:08-06:00:	Rase	2016-03-01	23:40:01	10d9.0
+LOG:	2016-10-17 03:36:08-06:00:	Rose	2016-03-01	23:40:01	10d9.0
+LOG:	2016-10-17 03:36:08-06:00:	End of sighting file sameDateAndTime.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file bodyMissing.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file dateMissing.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file timeMissing.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file observationMissing.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file incorrectHorizonValue.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file pressureLowerLimit.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file pressureUpperLimitExceeded.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file tempAboveLimit.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file tempBelowLimit.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file heightBelowIdeal.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file obsDegGreater90.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file obsDegLessThan0.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file obsMinLessThan0.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file obsMinGreater60.xml
+LOG:	2016-10-17 03:36:08-06:00:	Start of log
+LOG:	2016-10-17 03:36:08-06:00:	Start of sighting file obsAltitudeLess.xml
