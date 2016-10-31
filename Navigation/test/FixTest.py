@@ -1,9 +1,9 @@
 '''
     Created on 10/12/16
-    Modified on 10/16/16
+    Modified on 10/30/16
     
     @author: Ankit Kumar Singh
-    Test Cases for Fix component. These are part of CAO02 Assignment
+    Test Cases for Fix component. These are part of CAO03 Assignment
 '''
 import unittest
 import datetime
@@ -95,7 +95,7 @@ class FixTest(unittest.TestCase):
 
     def test200_010_ShouldInputFile(self):
         theFix = Fix.Fix()
-        self.assertEqual(theFix.setSightingFile('file1.xml'),'file1.xml')
+        self.assertEqual(theFix.setSightingFile('file1.xml'),os.path.abspath('file1.xml'))
 
 #Sad path
 
@@ -178,7 +178,7 @@ class FixTest(unittest.TestCase):
 #                                       string which is not "artificial" or "natural"
     def test300_010_ShouldReturnApproxLatitudeAndLongitude(self):
         xmlfile = Fix.Fix()
-        xmlfile.setSightingFile('f1.xml')
+        xmlfile.setSightingFile('text.xml')
         self.assertEqual(xmlfile.getSightings(),('0d0.0','0d0.0'))
 
 
@@ -193,7 +193,7 @@ class FixTest(unittest.TestCase):
         self.assertEqual(xmlfile.getSightings(),('0d0.0','0d0.0'))
 
         
-        
+
 #Sad path        
     def test300_920_ShouldRaiseExceptionForBodyMissing(self):
         xmlfile = Fix.Fix()
@@ -378,7 +378,7 @@ class FixTest(unittest.TestCase):
             fix.setAriesFile('')
 
 
-    def test400_920_RaiseExceptionIfParameterIsNotaTextFile(self):
+    def test400_920_RaiseExceptionIfParameterDoesNotHaveFileExtension(self):
         fix = Fix.Fix()
         with self.assertRaises(ValueError):
             ariesFile = fix.setAriesFile('ariesFile')    
@@ -387,7 +387,7 @@ class FixTest(unittest.TestCase):
     def test400_930_RaiseExceptionIfParameterIsNotaValidFileName(self):
         fix = Fix.Fix()
         with self.assertRaises(ValueError):
-            fix.setAriesFile('#?23.txt')    
+            fix.setAriesFile('#<56.txt')    
 
 
     def test400_940_RaiseExceptionIfFileNameIsOfInvalidSize(self):
@@ -487,4 +487,14 @@ class FixTest(unittest.TestCase):
         with self.assertRaises(ValueError):
             fix.setStarFile('.txt')
 
+#Happy path for getSightingsFile
 
+
+
+    def test600_010_ReturnstheCorrectValuewithValidInputFiles(self):
+        fix = Fix.Fix()
+        fix.starFile = 'stars.txt'
+        fix.ariesFile = 'aries.txt'
+        fix.getGeographicPosition('Sirius', '2017-04-17','09:30:30')
+        
+        
