@@ -1,0 +1,7 @@
+LOG:	16-12-02 22:17:23-06:00	Log file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\logc606f8b77418.txt
+LOG:	16-12-02 22:17:23-06:00	Sighting file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\CA03_300_ValidStarLatLonInterpolationRequired.xml
+LOG:	16-12-02 22:17:23-06:00	Aries file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\CA03_Valid_Aries.txt
+LOG:	16-12-02 22:17:23-06:00	Star file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\CA03_Valid_Stars.txt
+LOG:	16-12-02 22:17:23-06:00	Betelgeuse	2017-01-16	03:15:42	9d54.7	7d24.3	74d55.2
+LOG:	16-12-02 22:17:23-06:00	Sighting errors:	0
+LOG:	16-12-02 22:17:23-06:00	End of sighting file:	CA03_300_ValidStarLatLonInterpolationRequired.xml

@@ -75,4 +75,5 @@ LOG:	2016-10-31 04:23:08-06:00 Sighting file:	C:\Users\Singh\SoftwareProcess\Sof
 LOG:	2016-10-31 04:31:58-06:00 Sighting file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sameDate.xmlLOG:	2016-10-31 04:39:34-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txt
 LOG:	2016-10-31 04:39:34-06:00 Sighting file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sameDate.xmlLOG:	2016-10-31 04:40:02-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txt
 LOG:	2016-10-31 04:40:02-06:00 Sighting file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sameDate.xmlLOG:	2016-10-31 04:40:35-06:00:	Log File:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txt
-LOG:	2016-10-31 04:40:35-06:00 Sighting file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sameDate.xml
+LOG:	2016-10-31 04:40:35-06:00 Sighting file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sameDate.xmlLOG:	16-12-02 22:21:53-06:00	Log file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sortedsamedatelog.txt
+LOG:	16-12-02 22:21:53-06:00	Sighting file:	C:\Users\Singh\SoftwareProcess\SoftwareProcess\Navigation\test\sameDate.xml
